@@ -1,5 +1,13 @@
 # Hi, I'm Kumar Saurabh Singh 👋
 
+<p align="right">
+  <a href="https://github.com/IntegrativeBioinformaticsLab">
+    <img src="./assets/ibl-logo.png"
+         alt="Integrative Bioinformatics Lab"
+         width="180">
+  </a>
+</p>
+
 ### Computational Biologist | Bioinformatician | Principal Investigator
 
 I am the Principal Investigator of the [**Integrative Bioinformatics Lab**](https://github.com/IntegrativeBioinformaticsLab), embedded within the **Plant Functional Genomics** group at the **Brightlands Future Farming Institute, Maastricht University**.
