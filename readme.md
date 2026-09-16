@@ -54,7 +54,7 @@ Some of my projects including 🌱 **Text2Trait**, 🧬 **Plant Open Datahub**, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kumarsaurabh20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsaurabh20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsaurabh20&layout=compact&hide_border=true)
+
 
 
 
