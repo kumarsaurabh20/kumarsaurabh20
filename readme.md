@@ -1,4 +1,4 @@
-# Hi, I'm Kumar Saurabh Singh 👋
+# Hi, I am Kumar Saurabh Singh 👋
 
 <p align="left">
   <a href="https://github.com/IntegrativeBioinformaticsLab">
