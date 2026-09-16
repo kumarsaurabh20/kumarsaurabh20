@@ -4,19 +4,11 @@
 
 I am the Principal Investigator of the [**Integrative Bioinformatics Lab**](https://github.com/IntegrativeBioinformaticsLab), embedded within the **Plant Functional Genomics** group at the **Brightlands Future Farming Institute, Maastricht University**.
 
-My research sits at the intersection of **bioinformatics, computational biology, plant genomics, metabolomics, and multi-omics data integration**. I am particularly interested in developing computational approaches that connect different layers of biological information to better understand the relationship between **genotype, molecular phenotype, metabolism, and plant traits**.
+My research sits at the intersection of **bioinformatics, computational biology, genomics, transcriptomics, metabolomics, proteomics, and multi-omics data integration**. I am particularly interested in developing computational approaches that connect different layers of biological information to better understand the relationship between **genotype, molecular phenotype, metabolism, and plant traits.** I also work with other systems including insects and microbes.
 
-A central theme of my research is moving from large, heterogeneous omics datasets toward biologically interpretable hypotheses. This includes integrating genomic, transcriptomic, metabolomic, and phenotypic information; identifying relationships between genes, metabolites, and traits; and developing computational workflows for discovering previously unknown biological mechanisms.
+A central theme of my research is moving from large, heterogeneous omics datasets toward biologically interpretable hypotheses. This includes integrating genomic, transcriptomic, metabolomic, proteomics, and phenotypic information; identifying relationships between genes, metabolites, and traits; and developing computational workflows for discovering previously unknown biological mechanisms.
 
-🌱 **Text2Trait** explores approaches for connecting biological knowledge contained in scientific literature with plant traits, with the broader goal of making dispersed knowledge more computationally accessible and useful for hypothesis generation.
-
-🧬 **POD** focuses on [brief description of POD project — add exact project aim here].
-
-⚗️ **MEANtools** is a systematic, unsupervised computational workflow for integrating transcriptomics and metabolomics data to predict candidate metabolic pathways *de novo*. It connects correlated metabolites and transcripts using biochemical reaction rules and enzyme-family information, enabling the generation of hypotheses about previously uncharacterized biosynthetic pathways.
-
-🔗 **MATE** focuses on [brief description of MATE — add exact project aim here].
-
-Together, these projects reflect the broader goal of the Integrative Bioinformatics Lab: developing computational methods that **connect data, knowledge, and biological mechanisms** to enable discovery from increasingly complex biological datasets.
+Some of my projects including 🌱 **Text2Trait**, 🧬 **Plant Open Datahub**, 🔗**MEANtools**, reflect the broader goal of the Integrative Bioinformatics Lab: developing computational methods that **connect data, knowledge, and biological mechanisms** to enable discovery from increasingly complex biological datasets.
 
 ---
 
@@ -72,7 +64,3 @@ Together, these projects reflect the broader goal of the Integrative Bioinformat
 ![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarsaurabh20&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsaurabh20&layout=compact&hide_border=true)
-
----
-
-### 🧬 Integrating data. Connecting biology. Discovering mechanisms.
