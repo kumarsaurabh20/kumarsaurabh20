@@ -2,7 +2,7 @@
 
 <p align="right">
   <a href="https://github.com/IntegrativeBioinformaticsLab">
-    <img src="./assets/ibl-logo.png"
+    <img src="./assets/logo.png"
          alt="Integrative Bioinformatics Lab"
          width="180">
   </a>
