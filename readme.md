@@ -1,6 +1,6 @@
 # Hi, I'm Kumar Saurabh Singh 👋
 
-<p align="right">
+<p align="left">
   <a href="https://github.com/IntegrativeBioinformaticsLab">
     <img src="./assets/logo.png"
          alt="Integrative Bioinformatics Lab"
