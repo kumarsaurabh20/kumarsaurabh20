@@ -52,7 +52,11 @@ Some of my projects including 🌱 **Text2Trait**, 🧬 **Plant Open Datahub**, 
 ![Vector Databases](https://img.shields.io/badge/Vector_Databases-6C63FF?style=plastic&logo=databricks&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=plastic&logo=openai&logoColor=white)
-![GLMs](https://img.shields.io/badge/GLMs-008080?style=plastic&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=plastic&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=plastic&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-4051B5?style=plastic&logo=v&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=plastic&logo=alibabacloud&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)
 
 ---
