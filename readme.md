@@ -4,11 +4,11 @@
   <a href="https://github.com/IntegrativeBioinformaticsLab">
     <img src="./assets/logo.png"
          alt="Integrative Bioinformatics Lab"
-         width="180">
+         width="240">
   </a>
 </p>
 
-### Computational Biologist | Bioinformatician | Principal Investigator
+### Computational Biologist | Principal Investigator | Assistant Professor
 
 I am the Principal Investigator of the [**Integrative Bioinformatics Lab**](https://github.com/IntegrativeBioinformaticsLab), embedded within the **Plant Functional Genomics** group at the **Brightlands Future Farming Institute, Maastricht University**.
 
