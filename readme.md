@@ -10,7 +10,7 @@
 
 ### Computational Biologist | Principal Investigator | Assistant Professor
 
-I am the Principal Investigator of the [**Integrative Bioinformatics Lab**](https://github.com/IntegrativeBioinformaticsLab), embedded within the **Plant Functional Genomics** group at the **Brightlands Future Farming Institute, Maastricht University**.
+I am the Principal Investigator of the [**Integrative Bioinformatics Lab**](https://github.com/IntegrativeBioinformaticsLab), embedded within the **Plant Functional Genomics** group at the **Brightlands Future Farming Institute, Maastricht University, Venlo, The Netherlands**.
 
 My research sits at the intersection of **bioinformatics, computational biology, genomics, transcriptomics, metabolomics, proteomics, and multi-omics data integration**. I am particularly interested in developing computational approaches that connect different layers of biological information to better understand the relationship between **genotype, molecular phenotype, metabolism, and plant traits.** I also work with other systems including insects and microbes.
 
@@ -34,7 +34,7 @@ Some of my projects including 🌱 **Text2Trait**, 🧬 **Plant Open Datahub**, 
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=plastic&logo=rubyonrails&logoColor=white)
